@@ -23,8 +23,6 @@ disqus:
 # Build settings
 markdown: kramdown
 highlighter: rouge # or pygments or null
-theme: jekyll-sleek
-
 
 include: ['_pages']
 permalink: /:title/
