@@ -15,15 +15,13 @@ so cool
 *S* - Ross
 
 Cat Booting Up
-https://i.imgur.com/6oSBRIk.gif
+![](https://i.imgur.com/6oSBRIk.gif)
 
 jsut - just
 
 biljke u petrijevim zdjelicama
 [empire.bonsai]
 
-
-Dođe mi da plačem, srce moje malo. 
 
 https://www.youtube.com/watch?v=vP02sgYrHsw
 https://youtu.be/KisHhIRihMY
