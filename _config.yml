@@ -1,4 +1,3 @@
-remote_theme: janczizikow/sleek
 title: Diomed # your site title
 author: GitHub User
 email: your-email@domain.com # email for form submission, you also have to change it in _js/scripts.js
@@ -24,6 +23,8 @@ disqus:
 markdown: kramdown
 highlighter: rouge # or pygments or null
 
+remote_theme: janczizikow/sleek
+
 include: ['_pages']
 permalink: /:title/
 
@@ -33,4 +34,4 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-remote-theme
+ 
