@@ -1,4 +1,4 @@
-remote_theme: janczizikow/sleek
+#remote_theme: janczizikow/sleek
 title: Diomed # your site title
 author: GitHub User
 email: your-email@domain.com # email for form submission, you also have to change it in _js/scripts.js
