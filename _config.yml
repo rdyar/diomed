@@ -23,7 +23,7 @@ disqus:
 markdown: kramdown
 highlighter: rouge # or pygments or null
 
-remote_theme: janczizikow/sleek
+remote_theme: mmistakes/minimal-mistakes
 
 include: ['_pages']
 permalink: /:title/
